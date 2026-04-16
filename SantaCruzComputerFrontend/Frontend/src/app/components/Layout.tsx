@@ -95,7 +95,7 @@ export function Layout({ children }: LayoutProps) {
       >
         <div className="flex flex-col h-full">
           <div className="flex items-center justify-between p-6 border-b border-gray-200">
-            <h1 className="font-bold text-xl">TechStore</h1>
+            <h1 className="font-bold text-xl">SantaCruz-Computer</h1>
             <button
               onClick={() => setSidebarOpen(false)}
               className="lg:hidden p-2 rounded-lg hover:bg-gray-100"
